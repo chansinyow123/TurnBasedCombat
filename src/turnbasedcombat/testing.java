@@ -32,8 +32,6 @@ public class testing {
 
         Scanner sc = new Scanner(System.in);
         
-        
-        //
         /*
         HashSet<String> set = new HashSet(3);
         
