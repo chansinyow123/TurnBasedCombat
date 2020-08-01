@@ -11,10 +11,10 @@ package ADT;
  */
 public class HashMap<K, V> implements MapInterface<K, V> {
     
-    private Node<K, V>[] hashTable;							       // dictionary entries
+    private Node<K, V>[] hashTable;                                 // dictionary entries
     private int numberOfEntries;
-    private static final int DEFAULT_SIZE = 101; 		   // default size of hash table - must be prime 
-    private static final double MAX_LOAD_FACTOR = 0.9; // fraction of hash table that can be filled
+    private static final int DEFAULT_SIZE = 101;                    // default size of hash table - must be prime 
+    private static final double MAX_LOAD_FACTOR = 0.9;              // fraction of hash table that can be filled
 
     public HashMap() {
         this(DEFAULT_SIZE);

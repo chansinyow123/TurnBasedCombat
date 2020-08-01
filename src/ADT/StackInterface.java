@@ -11,10 +11,13 @@ package ADT;
  */
 public interface StackInterface<T> {
     
+    //[1, 2, 3]
     public void push(T value);
     
+    //[1, 2]
     public T pop();
     
+    //[2]
     public T peek();
     
     public int size();
