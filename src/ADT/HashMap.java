@@ -229,7 +229,6 @@ public class HashMap<K, V> implements MapInterface<K, V> {
 
     public boolean isPrime(int integer) {
         boolean result;
-        boolean done = false;
 
         if (integer == 2) {
             result = true;
@@ -239,10 +238,10 @@ public class HashMap<K, V> implements MapInterface<K, V> {
         } else { // integer is odd and >= 5
             // a prime is odd and not divisible by every odd integer up to its square root
             result = true; // assume prime
-            for (int divisor = 3; !done && (divisor * divisor <= integer); divisor = divisor + 2) {
+            for (int divisor = 3; (divisor * divisor <= integer); divisor = divisor + 2) {
                 if (integer % divisor == 0) {
                     result = false; // divisible; not prime
-                    done = true;
+                    break;
                 } // end if
             } // end for
         } // end if
