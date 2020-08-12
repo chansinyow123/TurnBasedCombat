@@ -9,6 +9,10 @@ package ADT;
  *
  * @author chans
  */
+
+
+
+//this is hash ser interface
 public interface SetInterface<T> {
     
     public boolean add(T value);
