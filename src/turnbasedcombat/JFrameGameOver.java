@@ -220,7 +220,7 @@ public class JFrameGameOver extends javax.swing.JFrame {
     private void jButtonAgainActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButtonAgainActionPerformed
         Game newGame = new Game(game.getAccount());
 
-        Game.saveToFile(game);
+        Game.saveToFile(newGame);
 
         new JFrameStory1().setVisible(true);
         this.dispose();
