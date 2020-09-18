@@ -19,7 +19,7 @@ import ADT.ArrayList;
 import ADT.HashSet;
 /**
  *
- * @author chans
+ * @author OngYiPin
  */
 public class Account implements Serializable{
     private String username;

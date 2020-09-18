@@ -11,7 +11,7 @@ import ADT.ArrayList;
 import entity.Game;
 /**
  *
- * @author chans
+ * @author WongKetYee
  */
 public class JFrameHistory extends javax.swing.JFrame {
 

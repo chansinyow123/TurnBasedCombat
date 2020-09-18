@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author chans
+ * @author WongKetYee
  */
 public class ArrayList<T> implements ListInterface<T> {
 

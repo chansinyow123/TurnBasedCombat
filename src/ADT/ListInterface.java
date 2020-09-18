@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author WongKetYee
  */
 public interface ListInterface<T> {
     

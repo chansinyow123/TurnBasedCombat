@@ -7,7 +7,7 @@ package turnbasedcombat;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
  */
 public class JFrameMainMenu extends javax.swing.JFrame {
 

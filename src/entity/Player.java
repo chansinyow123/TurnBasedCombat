@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 /**
  *
- * @author chans
+ * @author TehWanTheng
  */
 public class Player implements Serializable {
     private int currentHP;

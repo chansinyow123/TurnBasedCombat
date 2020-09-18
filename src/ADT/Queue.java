@@ -7,14 +7,14 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author OngYiPin
  */
 public class Queue<T> implements QueueInterface<T> {
 
     private T arr[];                    // array to store queue elements
     private int front;  		// front points to front element in the queue
     private int rear;   		// rear points to last element in the queue
-    private int maxSize;                   // maximum size of the queue
+    private int maxSize;                // maximum size of the queue
     private int count;  		// current size of the queue
     
     public Queue() {

@@ -12,7 +12,7 @@ import entity.Dialog;
 
 /**
  *
- * @author chans
+ * @author ChaiZhiYing
  */
 public class JFrameDialog extends javax.swing.JFrame {
 

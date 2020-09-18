@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author OngYiPin
  */
 public interface QueueInterface<T> {
     

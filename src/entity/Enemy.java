@@ -7,7 +7,7 @@ package entity;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
  */
 public class Enemy {
     private int currentHP;

@@ -10,7 +10,7 @@ import ADT.Queue;
 
 /**
  *
- * @author chans
+ * @author TehWanTheng
  */
 public class JFrameStory1 extends javax.swing.JFrame {
 

@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author TehWanTheng
  */
 
 

@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
  */
 public interface MapInterface<K, V> {
     

@@ -18,7 +18,10 @@ import entity.AudioPlayer;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
+ * @author TehWanTheng
+ * @author WongKetYee
+ * @author ChaiZhiYing
  */
 public class JFrameRound1 extends javax.swing.JFrame {
 

@@ -17,7 +17,7 @@ import entity.Game;
 
 /**
  *
- * @author chans
+ * @author OngYiPin
  */
 public class JFrameEnterName extends javax.swing.JFrame {
 

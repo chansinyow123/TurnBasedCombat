@@ -19,7 +19,7 @@ import entity.Game;
 
 /**
  *
- * @author chans
+ * @author WongKetYee
  */
 public class JFrameGameOver extends javax.swing.JFrame {
 

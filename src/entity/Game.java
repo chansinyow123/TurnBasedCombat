@@ -20,7 +20,7 @@ import entity.Account;
 
 /**
  *
- * @author chans
+ * @author WongKetYee
  */
 public class Game implements Serializable{
 

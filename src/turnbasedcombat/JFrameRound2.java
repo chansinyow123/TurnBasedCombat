@@ -18,7 +18,10 @@ import entity.Dialog;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
+ * @author TehWanTheng
+ * @author WongKetYee
+ * @author ChaiZhiYing
  */
 public class JFrameRound2 extends javax.swing.JFrame {
 

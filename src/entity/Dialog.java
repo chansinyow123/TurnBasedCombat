@@ -17,7 +17,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author chans
+ * @author ChaiZhiYing
  */
 public class Dialog implements Serializable {
 

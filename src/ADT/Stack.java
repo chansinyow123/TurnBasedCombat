@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author chans
+ * @author ChaiZhiYing
  */
 public class Stack<T> implements StackInterface<T> {
 

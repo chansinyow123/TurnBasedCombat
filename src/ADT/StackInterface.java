@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author ChaiZhiYing
  */
 public interface StackInterface<T> {
     

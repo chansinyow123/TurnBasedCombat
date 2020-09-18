@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 import ADT.Queue;
 /**
  *
- * @author chans
+ * @author TehWanTheng
  */
 public class JFrameStory3 extends javax.swing.JFrame {
 

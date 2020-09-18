@@ -12,7 +12,7 @@ import entity.Account;
 
 /**
  *
- * @author chans
+ * @author OngYiPin
  */
 public class JFrameRegisterAccount extends javax.swing.JFrame {
 

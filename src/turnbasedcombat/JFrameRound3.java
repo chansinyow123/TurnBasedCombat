@@ -17,7 +17,10 @@ import entity.Player;
 import entity.Dialog;
 /**
  *
- * @author chans
+ * @author ChanSinYow
+ * @author TehWanTheng
+ * @author WongKetYee
+ * @author ChaiZhiYing
  */
 public class JFrameRound3 extends javax.swing.JFrame {
 

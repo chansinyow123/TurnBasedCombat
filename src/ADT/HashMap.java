@@ -7,7 +7,7 @@ package ADT;
 
 /**
  *
- * @author chans
+ * @author ChanSinYow
  */
 public class HashMap<K, V> implements MapInterface<K, V> {
     
